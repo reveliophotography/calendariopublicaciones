@@ -1,0 +1,11 @@
+# Ignorar todos los archivos por defecto
+*
+
+# No ignorar directorios
+!*/
+
+# No ignorar archivos Markdown
+!*.md
+
+# No ignorar el propio .gitignore
+!.gitignore
